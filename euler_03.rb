@@ -13,4 +13,4 @@ def fact(n)
   end
   return array
 end
-fact(600851475143)
+puts fact(600851475143).last
